@@ -1,1 +1,1 @@
-# code_for_project
+# code_of_project
